@@ -1,10 +1,10 @@
-<h2>Monitor Training Guide</h2>
+<h1>Monitor Training Guide</h1>
 
 This is a training guide for learning to run a sound check on a monitor console (sound board).  It's
 meant to be procedural, and generally applicable to most monitor setups, although there are a few
 console-specific tasks (such as loading/saving configurations).
 
-<h3 id='purpose'>Purpose &amp; Goals</h3>
+<h2 id='purpose'>Purpose &amp; Goals</h2>
 
 One big reason that churches like Buckead Church get to work with such talented musicians is that they provide environments that talented musicians appreciate--such as a talented and trained monitor engineer.
 
@@ -14,7 +14,7 @@ Our goal as monitor guy:
 1. Minimizing frustration in sound check
 1. Running an organized and predictable sound check
 
-<h3 id='setup'>Setup</h3>
+<h2 id='setup'>Setup</h2>
 
 1. Load a template for the board
 1. Find out what instruments (and channels) will be used that night
@@ -40,17 +40,15 @@ Our goal as monitor guy:
 	- Patch cables, adapters, etc.
 	- Is there any special setup for today? Auto-tune pedals hooked up to the board?
 
-<h3 id="soundcheck">Sound Check/Rehearsal</h3>
+<h2 id="soundcheck">Sound Check/Rehearsal</h2>
 
-Notes
+<h3>Notes</h3>
 
 - Important to establish a predictable sequence: Drummer, Bassist, EG, Keys, Lead, BG Vox (see chart below)
 - Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
 - Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
 
-* * *
-
-Running sound check
+<h3>Running sound check</h3>
 
 1. Start with the drummer: get his drum mix right in his own ears first
   - Have drummer play a groove (they will know to do this)
@@ -182,22 +180,20 @@ Running sound check
   </tr>
 </table>
 
-<h3 id="show">The Show</h3>
+<h2 id="show">The Show</h2>
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
 
-<h3 id="troubleshooting">Troubleshooting</h3>
+<h2 id="troubleshooting">Troubleshooting</h2>
 
-General sound check issues
+<h3>General sound check issues</h3>
 
 - If someone is late setting up (they have not arrived by the time you're ready to do sound check)
   - Run your sound check without them, then at the end bring their instrument in and get their tweaks separately
 - If a particular input line is giving you a lot of trouble (not patched right, hearing strange noises over it)
   - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
 
-* * *
-
-Troubleshooting Drums
+<h3>Troubleshooting Drums</h3>
 
 - If the drums (particularly toms) are coming through quietly or they sound "far away", even though you have raised gain/channel faders
   - The gate is probably staying closed (effectively muting the drums)
@@ -205,9 +201,7 @@ Troubleshooting Drums
   - Next, disable the gate
   - Finally, slowly raise the channel fader until the drummer is happy
 
-* * *
-
-Troubleshooting Guitars
+<h3>Troubleshooting Guitars</h3>
 
 - Many guitarists (e.g. Kristian Stanfill Band) prefer only the 57 mic, not the 609.
   - Simply split out the stereo channels and mute the 609
