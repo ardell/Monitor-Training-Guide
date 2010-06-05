@@ -5,10 +5,13 @@ meant to be procedural, and generally applicable to most monitor setups, althoug
 console-specific tasks (such as loading/saving configurations).
 
 <h2>Contents</h2>
-1. [intro][Introduction]
-1. [troubleshooting][Troubleshooting]
+1. <a href="#intro">Introduction</a>
+1. <a href="#setup">Setup</a>
+1. <a href="#soundcheck">Sound Check/Rehearsal</a>
+1. <a href="#show">The Show</a>
+1. <a href="#after">After the Show</a>
+1. <a href="#troubleshooting">Troubleshooting</a>
 
-[intro]: http://www.google.com
 <h2 id='intro'>Introduction</h2>
 
 One big reason that venues get to work with talented musicians is that they 
@@ -109,7 +112,6 @@ scene changes if applicable.
 1. Make sure all wireless mics and in-ear packs are off, and put away
 1. Shut down and cover the monitor console
 
-[troubleshooting]: http://www.google.com
 <h2 id="troubleshooting">Troubleshooting</h2>
 
 <h3>General sound check issues</h3>
