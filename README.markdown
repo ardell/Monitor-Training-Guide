@@ -4,14 +4,6 @@ This is a training guide for learning to run a sound check on a monitor console 
 meant to be procedural, and generally applicable to most monitor setups, although there are a few
 console-specific tasks (such as loading/saving configurations).
 
-<h3>Contents</h3>
-
-1. [Purpose & Goals](#purpose)
-1. [Setup](#setup)
-1. [Sound Check/Rehearsal](#soundcheck)
-1. [The Show](#show)
-1. [Troubleshooting](#troubleshooting)
-
 <h3 id='purpose'>Purpose &amp; Goals</h3>
 
 One big reason that churches like Buckead Church get to work with such talented musicians is that they provide environments that talented musicians appreciate--such as a talented and trained monitor engineer.
