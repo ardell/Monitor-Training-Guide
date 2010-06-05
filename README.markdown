@@ -76,8 +76,8 @@ Notes:
     <th colspan=7>Outputs</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <th>Inputs &darr;</th>
+    <th>Outpus &rarr;</th>
     <th>to Drums</th>
     <th>to Bass</th>
     <th>to EG SL</th>
@@ -87,7 +87,6 @@ Notes:
     <th>to BG Vox</th>
   </tr>
   <tr>
-    <th rowspan=11>Inputs</th>
     <th>Drums</th>
     <td>*1*</td>
     <td>2</td>
