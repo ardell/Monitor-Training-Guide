@@ -47,7 +47,9 @@ Notes
 - Important to establish a predictable sequence: Drummer, Bassist, EG, Keys, Lead, BG Vox (see chart below)
 - Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
 - Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
-	
+
+Running sound check
+
 1. Start with the drummer: get his drum mix right in his own ears first
   - Have drummer play a groove (they will know to do this)
 	- This typically requires a bit of tweaking
