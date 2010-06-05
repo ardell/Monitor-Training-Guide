@@ -85,7 +85,7 @@ Our goals as monitor guy:
   <li>Save (overwrite) the previously saved session (NOT THE TEMPLATE!)</li>
 </ol>
 
-<h4>During rehearsal</h4>
+<h3>During rehearsal</h3>
 
 1. Keep eye contact with musicians during their rehearsal
     - They will request changes, especially at the beginning of their rehearsal and in between songs
