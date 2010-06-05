@@ -52,10 +52,10 @@ Our goal as monitor guy:
 
 1. Drums to Drummer.  Then drums to everyone else (Bassist, EG, Keys, Lead, BG Vox)
   - Have drummer play a groove (they will know to do this)
-	- Tweak the drummer's drum mix according to his requests. Get his drum mix right in his own ears first.
+	- Tweak the drummer's drum mix according to his requests, get his drum mix right in his own ears first
   - This typically requires a bit of tweaking
 	- Others will request changes, ask them to please wait
-  - Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate; say "Drums to [bassist's name]"
+  - Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate, saying "Drums to [bassist's name]"
   - Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums
   - Ask "any more changes on drums?" and tweak as appropriate
 1. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
