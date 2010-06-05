@@ -20,10 +20,10 @@ Setup
 
 1. Load a template for the board
 1. Find out what instruments (and channels) will be used that night
-	- Who will be on vocals
-	- Who will be running click & loop (typically drummer or keys)
-	- How many lines of keys will you have (stereo vs mono)
-	- Will guitars be stereo (pod) or dual mono (57/609 mics)
+	- Who will be on vocals?
+	- Who will be running click & loop? (typically drummer or keys)
+	- How many lines of keys will you have? (stereo vs mono)
+	- Will guitars be stereo (pod) or dual mono (57/609 mics)?
 1. Label the board with instrument names (inputs) musicians' names (outputs)
 1. For each input/output pair set reasonable defaults for:
 	- Gain: their own instrument at 0db, others' at -10db
@@ -46,9 +46,9 @@ Sound Check/Rehearsal
 ---------------------
 
 Notes:
-	- Important to establish a predictable sequence: Drummer, Bassist, EG, Keys, Lead, BG Vox (see chart below)
-	- Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
-	- Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
+- Important to establish a predictable sequence: Drummer, Bassist, EG, Keys, Lead, BG Vox (see chart below)
+- Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
+- Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
 	
 1. Start with the drummer: get his drum mix right in his own ears first
   - Have drummer play a groove (they will know to do this)
@@ -69,37 +69,141 @@ Notes:
 1. Put the board in preview mode after rehearsal is finished, until just before show begins
 1. Just before the show begins, change batteries on all wireless mics (Lead Vox, BG/Other Vox, Host)
 
-                --------------------------------------- Outputs -----------------------------------------
-		            to Drums	  to Bass		  to EG SL		    to EG SR		    to Keys		  to Lead		  to BG Vox
-|    Drums		  *1*		      2           3               4               5           6           7
-     Bass       9           *8*         10              11              12          13          14
-I    EG SL      16          17          *15*            18              19          20          21
-n    EG SR      23          24          25              *22*            26          27          28              
-p    Keys       30          31          32              33              *29*        34          35
-u    Lead Gtr   37          38          39              40              41          *36*        42
-t    Lead Vox   44          45          46              47              48          *43*        49
-s    BG Vox     51          52          53              54              55          56          *50*
-     Other Vox                                  [ you get the idea ]
-|    Click      ***                                     ...
-|    Loop       ***                                     ...
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="7">Outputs</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>to Drums</td>
+    <td>to Bass</td>
+    <td>to EG SL</td>
+    <td>to EG SR</td>
+    <td>to Keys</td>
+    <td>to Lead</td>
+    <td>to BG Vox</td>
+  </tr>
+  <tr>
+    <td rowspan="11">Inputs</td>
+    <td>Drums</td>
+    <td>*1*</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Bass</td>
+    <td>9</td>
+    <td>*8*</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>EG SL</td>
+    <td>16</td>
+    <td>17</td>
+    <td>*15*</td>
+    <td>18</td>
+    <td>19</td>
+    <td>20</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>EG SR</td>
+    <td>23</td>
+    <td>24</td>
+    <td>25</td>
+    <td>*22*</td>
+    <td>26</td>
+    <td>27</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Keys</td>
+    <td>30</td>
+    <td>31</td>
+    <td>32</td>
+    <td>33</td>
+    <td>*29*</td>
+    <td>34</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Lead Gtr</td>
+    <td>37</td>
+    <td>38</td>
+    <td>39</td>
+    <td>40</td>
+    <td>41</td>
+    <td>*36*</td>
+    <td>42</td>
+  </tr>
+  <tr>
+    <td>Lead Vox</td>
+    <td>44</td>
+    <td>45</td>
+    <td>46</td>
+    <td>47</td>
+    <td>48</td>
+    <td>*43*</td>
+    <td>49</td>
+  </tr>
+  <tr>
+    <td>BG Vox</td>
+    <td>51</td>
+    <td>52</td>
+    <td>53</td>
+    <td>54</td>
+    <td>55</td>
+    <td>56</td>
+    <td>*50*</td>
+  </tr>
+  <tr>
+    <td>Other Vox</td>
+    <td colspan="7">[ you get the idea ]</td>
+  </tr>
+  <tr>
+    <td>Click</td>
+    <td>***</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td>Loop</td>
+    <td>***</td>
+    <td colspan="6"></td>
+  </tr>
+</table>
 
---- The Show ---
+The Show
+--------
+
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
 
---- Troubleshooting ---
-General sound check issues:
+Troubleshooting
+---------------
+
+General sound check issues
 - If someone is late setting up (they have not arrived by the time you're ready to do sound check)
     - Run your sound check without them, then at the end bring their instrument in and get their tweaks separately
 - If a particular input line is giving you a lot of trouble (not patched right, hearing strange noises over it)
     - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
 
-Troubleshooting Drums:
+Troubleshooting Drums
 - If the drums (particularly toms) are coming through quietly or they sound "far away", even though you have raised gain/channel faders
     - The gate is probably staying closed (effectively muting the drums)
     - First step *very important* is to lower the channel fader to -infinity (so we don't blow someone's ears out when we disable the gate)
     - Next, disable the gate
     - Finally, slowly raise the channel fader until the drummer is happy
 
-Troubleshooting Guitars:
+Troubleshooting Guitars
 - Many guitarists (e.g. Kristian Stanfill Band) prefer only the 57 mic, not the 609.
     - Simply split out the stereo channels and mute the 609
