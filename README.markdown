@@ -76,11 +76,11 @@ Our goal as monitor guy:
   </tr>
   <tr>
     <th>Inputs &darr;</th>
-    <th>to Drums</th>
-    <th>to Bass</th>
+    <th>to Drummer</th>
+    <th>to Bassist</th>
     <th>to EG SL</th>
     <th>to EG SR</th>
-    <th>to Keys</th>
+    <th>to Keyboardist</th>
     <th>to Lead</th>
     <th>to BG Vox</th>
   </tr>
@@ -166,17 +166,33 @@ Our goal as monitor guy:
   </tr>
   <tr>
     <th>Other Vox</th>
-    <td colspan=7>[ you get the idea ]</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>[ you get the idea ]</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <th>Click</th>
     <td>***</td>
-    <td colspan=6></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <th>Loop</th>
     <td>***</td>
-    <td colspan=6></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
