@@ -50,8 +50,8 @@ Our goal as monitor guy:
 
 <h3>Running sound check</h3>
 
-1. Drums to Drummer.  Then drums to everyone else (Bassist, EG, Keys, Lead, BG Vox)
-  - Have drummer play a groove (they will know to do this)
+1. Drums to Drummer.  Then drums to everyone else--Bassist, EG, Keys, Lead, BG Vox
+  - Have drummer play a groove--they will know to do this
 	- Tweak the drummer's drum mix according to his requests, get his drum mix right in his own ears first
   - This typically requires a bit of tweaking
 	- Others will request changes, ask them to please wait
@@ -60,6 +60,7 @@ Our goal as monitor guy:
   - Ask "any more changes on drums?" and tweak as appropriate
 2. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
 3. Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
+  - Have the drummer keep playing his groove, and have the bassist play along
   - Slowly raise the bass master fader (gain) until bassist is happy with the bass level
 	- Once again, if others request changes, ask them to please wait unless it is waaayy too loud
   - "Bass to [Drummer's name]", and tweak as appropriate
