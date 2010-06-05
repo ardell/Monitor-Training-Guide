@@ -6,9 +6,9 @@ console-specific tasks (such as loading/saving configurations).
 
 <h2 id='purpose'>Purpose &amp; Goals</h2>
 
-One big reason that venues get to work with talented musicians 
-is that they provide environments that talented musicians 
-appreciate--such as a talented and trained monitor engineer.
+One big reason that venues get to work with talented musicians is that they 
+provide environments that musicians appreciate--such as a talented and 
+trained monitor engineer.
 
 Our goals as monitor guy:
 
@@ -95,6 +95,11 @@ Our goals as monitor guy:
 <h2 id="show">The Show</h2>
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
+
+<h2 id="after">Afterwards</h2>
+
+1. Collect and put away all wireless mics, in-ear packs, and ears
+1. Shut down and cover the monitor console
 
 <h2 id="troubleshooting">Troubleshooting</h2>
 
