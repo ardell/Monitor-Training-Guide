@@ -38,7 +38,7 @@ Our goal as monitor guy:
 1. Check pack batteries and distribute in-ear packs and ears
 1. Ask the band if they need anything
 	- Patch cables, adapters, etc.
-	- Is there any special setup for today? Auto-tune pedals hooked up to the board?
+	- Is there any special setup for today, e.g. auto-tune pedals hooked up to the board?
 
 <h2 id="soundcheck">Sound Check/Rehearsal</h2>
 
@@ -73,8 +73,8 @@ Our goal as monitor guy:
       <li>They may request changes to drums at this time, if so go ahead and tweak, but maintain your order as much as possible.</li>
     </ul>
   </li>
-  <li>Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)</li>
   <li>EG to EG.  Then EG to everyone else (Drummer, Bassist, Keys, Lead, BG Vox)</li>
+  <li>Keys to Keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)</li>
   <li>Lead Guitar to Lead Guitar.  Then Lead Guitar to everyone else (Drummer, Bassist, EG, Keys, BG Vox)</li>
   <li>Lead Vox to Lead Vox.  Then Lead Vox to everyone else (Drummer, Bassist, EG, Keys, BG Vox)</li>
   <li>BG Vox to BG Vox.  Then BG Vox to everyone else (Drummer, Bassist, EG, Keys, Lead)</li>
