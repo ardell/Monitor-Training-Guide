@@ -11,6 +11,7 @@ Purpose & Goals
 One big reason that churches like Buckead Church get to work with such talented musicians is that they provide environments that talented musicians appreciate--such as a talented and trained monitor engineer.
 
 Our goal as monitor guy:
+
 1. Eliminating delays in sound check
 1. Minimizing frustration in sound check
 1. Running an organized and predictable sound check
