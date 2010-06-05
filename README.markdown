@@ -45,7 +45,7 @@ Setup
 Sound Check/Rehearsal
 ---------------------
 
-Notes:
+Notes
 - Important to establish a predictable sequence: Drummer, Bassist, EG, Keys, Lead, BG Vox (see chart below)
 - Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
 - Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
@@ -190,17 +190,17 @@ Troubleshooting
 
 General sound check issues
 - If someone is late setting up (they have not arrived by the time you're ready to do sound check)
-    - Run your sound check without them, then at the end bring their instrument in and get their tweaks separately
+  - Run your sound check without them, then at the end bring their instrument in and get their tweaks separately
 - If a particular input line is giving you a lot of trouble (not patched right, hearing strange noises over it)
-    - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
+  - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
 
 Troubleshooting Drums
 - If the drums (particularly toms) are coming through quietly or they sound "far away", even though you have raised gain/channel faders
-    - The gate is probably staying closed (effectively muting the drums)
-    - First step *very important* is to lower the channel fader to -infinity (so we don't blow someone's ears out when we disable the gate)
-    - Next, disable the gate
-    - Finally, slowly raise the channel fader until the drummer is happy
+  - The gate is probably staying closed (effectively muting the drums)
+  - First step *very important* is to lower the channel fader to -infinity (so we don't blow someone's ears out when we disable the gate)
+  - Next, disable the gate
+  - Finally, slowly raise the channel fader until the drummer is happy
 
 Troubleshooting Guitars
 - Many guitarists (e.g. Kristian Stanfill Band) prefer only the 57 mic, not the 609.
-    - Simply split out the stereo channels and mute the 609
+  - Simply split out the stereo channels and mute the 609
