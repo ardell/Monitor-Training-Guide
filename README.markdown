@@ -4,6 +4,10 @@ This is a training guide for learning to run a sound check on a monitor console 
 meant to be procedural, and generally applicable to most monitor setups, although there are a few
 console-specific tasks (such as loading/saving configurations).
 
+<h2>Contents</h2>
+1. [Purpose & Goals][purpose]
+1. [Troubleshooting][troubleshooting]
+
 <h2 id='purpose'>Purpose &amp; Goals</h2>
 
 One big reason that venues get to work with talented musicians is that they 
@@ -104,6 +108,7 @@ scene changes if applicable.
 1. Make sure all wireless mics and in-ear packs are off, and put away
 1. Shut down and cover the monitor console
 
+[troubleshooting] http://www.google.com
 <h2 id="troubleshooting">Troubleshooting</h2>
 
 <h3>General sound check issues</h3>
