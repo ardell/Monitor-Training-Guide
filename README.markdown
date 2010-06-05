@@ -5,10 +5,11 @@ meant to be procedural, and generally applicable to most monitor setups, althoug
 console-specific tasks (such as loading/saving configurations).
 
 <h2>Contents</h2>
-1. [Purpose & Goals][purpose]
-1. [Troubleshooting][troubleshooting]
+1. [intro][Introduction]
+1. [troubleshooting][Troubleshooting]
 
-<h2 id='purpose'>Purpose &amp; Goals</h2>
+[intro]: http://www.google.com
+<h2 id='intro'>Introduction</h2>
 
 One big reason that venues get to work with talented musicians is that they 
 provide environments that musicians appreciate--such as a talented and 
@@ -108,7 +109,7 @@ scene changes if applicable.
 1. Make sure all wireless mics and in-ear packs are off, and put away
 1. Shut down and cover the monitor console
 
-[troubleshooting] http://www.google.com
+[troubleshooting]: http://www.google.com
 <h2 id="troubleshooting">Troubleshooting</h2>
 
 <h3>General sound check issues</h3>
