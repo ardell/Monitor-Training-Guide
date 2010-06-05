@@ -1,12 +1,18 @@
-*Monitor Training Guide*
-========================
+<h1>Monitor Training Guide</h1>
 
 This is a training guide for learning to run a sound check on a monitor console (sound board).  It's
 meant to be procedural, and generally applicable to most monitor setups, although there are a few
 console-specific tasks (such as loading/saving configurations).
 
-Purpose & Goals
----------------
+<h2>Contents</h2>
+
+1. [Purpose & Goals][purpose]
+1. [Setup][setup]
+1. [Sound Check/Rehearsal][soundcheck]
+1. [The Show][show]
+1. [Troubleshooting][troubleshooting]
+
+<h2 id="purpose">Purpose &amp; Goals</h2>
 
 One big reason that churches like Buckead Church get to work with such talented musicians is that they provide environments that talented musicians appreciate--such as a talented and trained monitor engineer.
 
@@ -16,8 +22,7 @@ Our goal as monitor guy:
 1. Minimizing frustration in sound check
 1. Running an organized and predictable sound check
 
-Setup
------
+<h2 id="setup">Setup</h2>
 
 1. Load a template for the board
 1. Find out what instruments (and channels) will be used that night
@@ -43,8 +48,7 @@ Setup
 	- Patch cables, adapters, etc.
 	- Is there any special setup for today? Auto-tune pedals hooked up to the board?
 
-Sound Check/Rehearsal
----------------------
+<h2 id="soundcheck">Sound Check/Rehearsal</h2>
 
 Notes
 
@@ -182,13 +186,11 @@ Notes
   </tr>
 </table>
 
-The Show
---------
+<h2 id="show">The Show</h2>
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
 
-Troubleshooting
----------------
+<h2 id="troubleshooting">Troubleshooting</h2>
 
 General sound check issues
 
