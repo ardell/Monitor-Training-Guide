@@ -1,5 +1,5 @@
-Monitor Training Guide
-----------------------
+*Monitor Training Guide*
+========================
 
 This is a training guide for learning to run a sound check on a monitor console (sound board).  It's
 meant to be procedural, and generally applicable to most monitor setups, although there are a few
