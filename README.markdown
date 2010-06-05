@@ -12,6 +12,7 @@ console-specific tasks (such as loading/saving configurations).
 1. <a href="#after">After the Show</a>
 1. <a href="#troubleshooting">Troubleshooting</a>
 
+<a name="intro" />
 <h2 id='intro'>Introduction</h2>
 
 One big reason that venues get to work with talented musicians is that they 
@@ -24,6 +25,7 @@ Our goals as monitor guy:
 1. Minimize frustration in sound check
 1. Run an organized and predictable sound check
 
+<a name="setup" />
 <h2 id='setup'>Setup</h2>
 
 1. Load a template for the board
@@ -50,6 +52,7 @@ Our goals as monitor guy:
 	- Patch cables, adapters, etc.
 	- Is there any special setup for today, e.g. auto-tune pedals hooked up to the board?
 
+<a name="soundcheck" />
 <h2 id="soundcheck">Sound Check/Rehearsal</h2>
 
 <h3>Notes</h3>
@@ -100,18 +103,21 @@ Our goals as monitor guy:
 1. Put the board in preview mode after rehearsal is finished, until just before show begins
 1. Just before the show begins, change batteries on all wireless mics (Lead Vox, BG/Other Vox, Host). After changing batteries, all mics should be ON.
 
+<a name="show" />
 <h2 id="show">The Show</h2>
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
 Be available to make tweaks to mixes, although such changes are rare.  Also be available to help load on and off the stage during
 scene changes if applicable.
 
+<a name="after" />
 <h2 id="after">After the Show</h2>
 
 1. Collect all wireless mics, in-ear packs, and ears
 1. Make sure all wireless mics and in-ear packs are off, and put away
 1. Shut down and cover the monitor console
 
+<a name="troubleshooting" />
 <h2 id="troubleshooting">Troubleshooting</h2>
 
 <h3>General sound check issues</h3>
