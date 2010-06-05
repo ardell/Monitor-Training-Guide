@@ -72,12 +72,10 @@ Notes:
 <table>
   <tr>
     <td></td>
-    <td></td>
-    <th colspan=7>Outputs</th>
+    <th>Outputs &rarr;</th>
   </tr>
   <tr>
     <th>Inputs &darr;</th>
-    <th>Outpus &rarr;</th>
     <th>to Drums</th>
     <th>to Bass</th>
     <th>to EG SL</th>
