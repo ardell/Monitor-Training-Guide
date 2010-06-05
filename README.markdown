@@ -123,4 +123,4 @@ scene changes if applicable.
 <h3>Troubleshooting Guitars</h3>
 
 - Many guitarists prefer only the SM 57 mic, not the 609 (Sennheiser).
-  - Simply split out the stereo channels and mute the 609
+  - Simply split out the stereo channel and mute the 609
