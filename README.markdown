@@ -95,6 +95,8 @@ Our goals as monitor guy:
 <h2 id="show">The Show</h2>
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
+Be available to make tweaks to mixes, although such changes are rare.  Also be available to help load on and off the stage during
+scene changes if applicable.
 
 <h2 id="after">After the Show</h2>
 
