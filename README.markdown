@@ -108,7 +108,7 @@ Sit back and relax.  As long as you have done a good job with setup and sound ch
 - If the drums (particularly toms) are coming through quietly or they sound "far away", even though you have raised gain/channel faders
   - The gate is probably staying closed (effectively muting the drums)
   - First step *very important* is to lower the channel fader to -infinity (so we don't blow someone's ears out when we disable the gate)
-  - Next, disable the gate
+  - Next, "bypass" the gate. This removes the gate plugin from the drum input's signal flow
   - Finally, slowly raise the channel fader until the drummer is happy
 
 <h3>Troubleshooting Guitars</h3>
