@@ -111,7 +111,7 @@ scene changes if applicable.
 - If someone is late setting up (they have not arrived by the time you're ready to do sound check)
   - Run your sound check without them, then at the end bring their instrument in and get their tweaks separately
 - If a particular input line is giving you a lot of trouble (not patched right, hearing strange noises over it)
-  - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
+  - Ask the Front of House engineer for help, or wait until after you have sound checked other instruments then try to fix
 
 <h3>Troubleshooting Drums</h3>
 
