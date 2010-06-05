@@ -48,6 +48,8 @@ Notes
 - Only break your order if something is waaayy too loud for someone (indicates probable error in set-up phase)
 - Certain musicians will be more picky than others--some want pan/EQ/gate set a particular way. Try to accommodate but if it slows the sound check significantly, request to move on.
 
+* * *
+
 Running sound check
 
 1. Start with the drummer: get his drum mix right in his own ears first
@@ -193,6 +195,8 @@ General sound check issues
 - If a particular input line is giving you a lot of trouble (not patched right, hearing strange noises over it)
   - Ask the Front of House engineer, or wait until after you have sound checked other instruments then try to fix
 
+* * *
+
 Troubleshooting Drums
 
 - If the drums (particularly toms) are coming through quietly or they sound "far away", even though you have raised gain/channel faders
@@ -200,6 +204,8 @@ Troubleshooting Drums
   - First step *very important* is to lower the channel fader to -infinity (so we don't blow someone's ears out when we disable the gate)
   - Next, disable the gate
   - Finally, slowly raise the channel fader until the drummer is happy
+
+* * *
 
 Troubleshooting Guitars
 
