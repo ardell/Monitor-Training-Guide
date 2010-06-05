@@ -86,7 +86,7 @@ Notes:
   </tr>
   <tr>
     <th>Drums</th>
-    <td>*1*</td>
+    <td align="center">*1*</td>
     <td>2</td>
     <td>3</td>
     <td>4</td>
