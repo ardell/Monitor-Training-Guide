@@ -12,7 +12,7 @@ console-specific tasks (such as loading/saving configurations).
 1. [The Show](#show)
 1. [Troubleshooting](#troubleshooting)
 
-<h2 id="purpose">Purpose &amp; Goals</h2>
+<h2 id='purpose'>Purpose &amp; Goals</h2>
 
 One big reason that churches like Buckead Church get to work with such talented musicians is that they provide environments that talented musicians appreciate--such as a talented and trained monitor engineer.
 
@@ -22,7 +22,7 @@ Our goal as monitor guy:
 1. Minimizing frustration in sound check
 1. Running an organized and predictable sound check
 
-<h2 id="setup">Setup</h2>
+<h2 id='setup'>Setup</h2>
 
 1. Load a template for the board
 1. Find out what instruments (and channels) will be used that night
