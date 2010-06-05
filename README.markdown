@@ -50,7 +50,7 @@ Our goal as monitor guy:
 
 <h3>Running sound check</h3>
 
-1. Start with the drummer: get his drum mix right in his own ears first
+1. Start with the drummer; get his drum mix right in his own ears first
   - Have drummer play a groove (they will know to do this)
 	- This typically requires a bit of tweaking
 	- Others will request changes, ask them to please wait
