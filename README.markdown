@@ -73,22 +73,22 @@ Notes:
   <tr>
     <td></td>
     <td></td>
-    <td colspan="7">Outputs</td>
+    <th colspan=7>Outputs</th>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>to Drums</td>
-    <td>to Bass</td>
-    <td>to EG SL</td>
-    <td>to EG SR</td>
-    <td>to Keys</td>
-    <td>to Lead</td>
-    <td>to BG Vox</td>
+    <th>to Drums</th>
+    <th>to Bass</th>
+    <th>to EG SL</th>
+    <th>to EG SR</th>
+    <th>to Keys</th>
+    <th>to Lead</th>
+    <th>to BG Vox</th>
   </tr>
   <tr>
-    <td rowspan="11">Inputs</td>
-    <td>Drums</td>
+    <th rowspan=11>Inputs</th>
+    <th>Drums</th>
     <td>*1*</td>
     <td>2</td>
     <td>3</td>
@@ -98,7 +98,7 @@ Notes:
     <td>7</td>
   </tr>
   <tr>
-    <td>Bass</td>
+    <th>Bass</th>
     <td>9</td>
     <td>*8*</td>
     <td>10</td>
@@ -108,7 +108,7 @@ Notes:
     <td>14</td>
   </tr>
   <tr>
-    <td>EG SL</td>
+    <th>EG SL</th>
     <td>16</td>
     <td>17</td>
     <td>*15*</td>
@@ -118,7 +118,7 @@ Notes:
     <td>21</td>
   </tr>
   <tr>
-    <td>EG SR</td>
+    <th>EG SR</th>
     <td>23</td>
     <td>24</td>
     <td>25</td>
@@ -128,7 +128,7 @@ Notes:
     <td>28</td>
   </tr>
   <tr>
-    <td>Keys</td>
+    <th>Keys</th>
     <td>30</td>
     <td>31</td>
     <td>32</td>
@@ -138,7 +138,7 @@ Notes:
     <td>35</td>
   </tr>
   <tr>
-    <td>Lead Gtr</td>
+    <th>Lead Gtr</th>
     <td>37</td>
     <td>38</td>
     <td>39</td>
@@ -148,7 +148,7 @@ Notes:
     <td>42</td>
   </tr>
   <tr>
-    <td>Lead Vox</td>
+    <th>Lead Vox</th>
     <td>44</td>
     <td>45</td>
     <td>46</td>
@@ -158,7 +158,7 @@ Notes:
     <td>49</td>
   </tr>
   <tr>
-    <td>BG Vox</td>
+    <th>BG Vox</th>
     <td>51</td>
     <td>52</td>
     <td>53</td>
@@ -168,18 +168,18 @@ Notes:
     <td>*50*</td>
   </tr>
   <tr>
-    <td>Other Vox</td>
-    <td colspan="7">[ you get the idea ]</td>
+    <th>Other Vox</th>
+    <td colspan=7>[ you get the idea ]</td>
   </tr>
   <tr>
-    <td>Click</td>
+    <th>Click</th>
     <td>***</td>
-    <td colspan="6"></td>
+    <td colspan=6></td>
   </tr>
   <tr>
-    <td>Loop</td>
+    <th>Loop</th>
     <td>***</td>
-    <td colspan="6"></td>
+    <td colspan=6></td>
   </tr>
 </table>
 
