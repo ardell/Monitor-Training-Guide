@@ -58,14 +58,14 @@ Our goal as monitor guy:
   - Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate, saying "Drums to [bassist's name]"
   - Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums
   - Ask "any more changes on drums?" and tweak as appropriate
-1. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
-1. Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
+2. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
+3. Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
   - Slowly raise the bass master fader (gain) until bassist is happy with the bass level
 	- Once again, if others request changes, ask them to please wait unless it is waaayy too loud
   - "Bass to [Drummer's name]", and tweak as appropriate
   - Proceed, in order asking EG, Keys, Lead, BG Vox for tweaks on bass
 	- They may request changes to drums at this time, if so go ahead and tweak, but maintain your order as much as possible.
-1. Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)
+4. Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)
 1. EG to EG.  Then EG to everyone else (Drummer, Bassist, Keys, Lead, BG Vox)
 1. Lead Guitar to Lead Guitar.  Then Lead Guitar to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
 1. Lead Vox to Lead Vox.  Then Lead Vox to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
