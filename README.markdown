@@ -100,7 +100,8 @@ scene changes if applicable.
 
 <h2 id="after">After the Show</h2>
 
-1. Collect and put away all wireless mics, in-ear packs, and ears
+1. Collect all wireless mics, in-ear packs, and ears
+1. Make sure all wireless mics and in-ear packs are off, and put away
 1. Shut down and cover the monitor console
 
 <h2 id="troubleshooting">Troubleshooting</h2>
