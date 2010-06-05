@@ -88,7 +88,7 @@ Our goal as monitor guy:
 1. Keep eye contact with musicians during their rehearsal
     - They will request changes, especially at the beginning of their rehearsal and in between songs
 1. Put the board in preview mode after rehearsal is finished, until just before show begins
-1. Just before the show begins, change batteries on all wireless mics (Lead Vox, BG/Other Vox, Host)
+1. Just before the show begins, change batteries on all wireless mics (Lead Vox, BG/Other Vox, Host). After changing batteries, all mics should be ON.
 
 <h2 id="show">The Show</h2>
 
@@ -113,5 +113,5 @@ Sit back and relax.  As long as you have done a good job with setup and sound ch
 
 <h3>Troubleshooting Guitars</h3>
 
-- Many guitarists (e.g. Kristian Stanfill Band) prefer only the 57 mic, not the 609.
+- Many guitarists prefer only the SM 57 mic, not the 609 (Sennheiser).
   - Simply split out the stereo channels and mute the 609
