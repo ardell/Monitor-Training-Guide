@@ -6,11 +6,11 @@ console-specific tasks (such as loading/saving configurations).
 
 <h2>Contents</h2>
 
-1. [Purpose & Goals][purpose]
-1. [Setup][setup]
-1. [Sound Check/Rehearsal][soundcheck]
-1. [The Show][show]
-1. [Troubleshooting][troubleshooting]
+1. [Purpose & Goals](#purpose)
+1. [Setup](#setup)
+1. [Sound Check/Rehearsal](#soundcheck)
+1. [The Show](#show)
+1. [Troubleshooting](#troubleshooting)
 
 <h2 id="purpose">Purpose &amp; Goals</h2>
 
