@@ -50,30 +50,38 @@ Our goal as monitor guy:
 
 <h3>Running sound check</h3>
 
-1. Drums to Drummer.  Then drums to everyone else--Bassist, EG, Keys, Lead, BG Vox
-  - Have drummer play a groove--they will know to do this
-	- Tweak the drummer's drum mix according to his requests, get his drum mix right in his own ears first
-  - This typically requires a bit of tweaking
-	- Others will request changes, ask them to please wait
-  - Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate, saying "Drums to [bassist's name]"
-  - Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums
-  - Ask "any more changes on drums?" and tweak as appropriate
-2. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
-3. Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
-  - Have the drummer keep playing his groove, and have the bassist play along
-  - Slowly raise the bass master fader (gain) until bassist is happy with the bass level
-	- Once again, if others request changes, ask them to please wait unless it is waaayy too loud
-  - "Bass to [Drummer's name]", and tweak as appropriate
-  - Proceed, in order asking EG, Keys, Lead, BG Vox for tweaks on bass
-	- They may request changes to drums at this time, if so go ahead and tweak, but maintain your order as much as possible.
-4. Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)
-1. EG to EG.  Then EG to everyone else (Drummer, Bassist, Keys, Lead, BG Vox)
-1. Lead Guitar to Lead Guitar.  Then Lead Guitar to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
-1. Lead Vox to Lead Vox.  Then Lead Vox to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
-1. BG Vox to BG Vox.  Then BG Vox to everyone else (Drummer, Bassist, EG, Keys, Lead)
-1. Other Vox to Other Vocalist (e.g. if the bassist or EG has a mic).  Then Other Vox to everyone else.
-1. Drum Loops to Drummer (sometimes keyboardist runs these instead).  Then Drum Loops to everyone else (Bassist, EG, Keys, Lead, BG Vox)
-1. Save (overwrite) the previously saved session (NOT THE TEMPLATE!)
+<ol>
+  <li>Drums to Drummer.  Then drums to everyone else--Bassist, EG, Keys, Lead, BG Vox
+    <ul>
+      <li>Have drummer play a groove--they will know to do this</li>
+	    <li>Tweak the drummer's drum mix according to his requests, get his drum mix right in his own ears first</li>
+      <li>This typically requires a bit of tweaking</li>
+      <li>Others will request changes, ask them to please wait</li>
+      <li>Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate, saying "Drums to [bassist's name]"</li>
+      <li>Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums</li>
+      <li>Ask "any more changes on drums?" and tweak as appropriate</li>
+    </ul>
+  </li>
+  <li>Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)</li>
+  <li>Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
+    <ul>
+      <li>Have the drummer keep playing his groove, and have the bassist play along</li>
+      <li>Slowly raise the bass master fader (gain) until bassist is happy with the bass level</li>
+      <li>Once again, if others request changes, ask them to please wait unless it is waaayy too loud</li>
+      <li>"Bass to [Drummer's name]", and tweak as appropriate</li>
+      <li>Proceed, in order asking EG, Keys, Lead, BG Vox for tweaks on bass</li>
+      <li>They may request changes to drums at this time, if so go ahead and tweak, but maintain your order as much as possible.</li>
+    </ul>
+  </li>
+  <li>Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)</li>
+  <li>EG to EG.  Then EG to everyone else (Drummer, Bassist, Keys, Lead, BG Vox)</li>
+  <li>Lead Guitar to Lead Guitar.  Then Lead Guitar to everyone else (Drummer, Bassist, EG, Keys, BG Vox)</li>
+  <li>Lead Vox to Lead Vox.  Then Lead Vox to everyone else (Drummer, Bassist, EG, Keys, BG Vox)</li>
+  <li>BG Vox to BG Vox.  Then BG Vox to everyone else (Drummer, Bassist, EG, Keys, Lead)</li>
+  <li>Other Vox to Other Vocalist (e.g. if the bassist or EG has a mic).  Then Other Vox to everyone else.</li>
+  <li>Drum Loops to Drummer (sometimes keyboardist runs these instead).  Then Drum Loops to everyone else (Bassist, EG, Keys, Lead, BG Vox)</li>
+  <li>Save (overwrite) the previously saved session (NOT THE TEMPLATE!)</li>
+</ol>
 
 <h4>During rehearsal</h4>
 
