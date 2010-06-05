@@ -96,7 +96,7 @@ Our goals as monitor guy:
 
 Sit back and relax.  As long as you have done a good job with setup and sound check, you should have very little to do during the show.
 
-<h2 id="after">Afterwards</h2>
+<h2 id="after">After the Show</h2>
 
 1. Collect and put away all wireless mics, in-ear packs, and ears
 1. Shut down and cover the monitor console
