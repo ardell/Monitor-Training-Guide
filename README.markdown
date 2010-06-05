@@ -50,151 +50,36 @@ Our goal as monitor guy:
 
 <h3>Running sound check</h3>
 
-1. Start with the drummer; get his drum mix right in his own ears first
+1. Drums to Drummer.  Then drums to everyone else (Bassist, EG, Keys, Lead, BG Vox)
   - Have drummer play a groove (they will know to do this)
-	- This typically requires a bit of tweaking
+	- Tweak the drummer's drum mix according to his requests. Get his drum mix right in his own ears first.
+  - This typically requires a bit of tweaking
 	- Others will request changes, ask them to please wait
-1. Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate; say "Drums to [bassist's name]", e.g. "Drums to Samm"
-1. Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums, e.g. "Drums to Matt" (EG), "Drums to Brad" (EG), "Drums to Scott" (keys), "Drums to Seth" (lead)
-1. Ask "any more changes on drums?" and tweak as appropriate
-1. Next, say "Bass to [Bassist's name]", and raise the bass master fader (gain) until bassist is happy
+  - Next, ask the bassist if he wants tweaks for the drum mix, and tweak as appropriate; say "Drums to [bassist's name]"
+  - Proceed in order, asking EG, Keys, Lead, BG Vox for tweaks on drums
+  - Ask "any more changes on drums?" and tweak as appropriate
+1. Click to Drummer.  Then click to everyone else (Bassist, EG, Keys, Lead, BG Vox)
+1. Bass to Bassist.  Then bass to everyone else (Drummer, EG, Keys, Lead, BG Vox)
+  - Slowly raise the bass master fader (gain) until bassist is happy with the bass level
 	- Once again, if others request changes, ask them to please wait unless it is waaayy too loud
-1. Say "Bass to [Drummer's name]", and tweak as appropriate
-1. Proceed, in order asking EG, Keys, Lead, BG Vox for tweaks on bass
+  - "Bass to [Drummer's name]", and tweak as appropriate
+  - Proceed, in order asking EG, Keys, Lead, BG Vox for tweaks on bass
 	- They may request changes to drums at this time, if so go ahead and tweak, but maintain your order as much as possible.
-1. Continue in order of chart below, each instrument to themself first
+1. Keys to keyboardist.  Then keys to everyone else (Drummer, Bassist, EG, Lead, BG Vox)
+1. EG to EG.  Then EG to everyone else (Drummer, Bassist, Keys, Lead, BG Vox)
+1. Lead Guitar to Lead Guitar.  Then Lead Guitar to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
+1. Lead Vox to Lead Vox.  Then Lead Vox to everyone else (Drummer, Bassist, EG, Keys, BG Vox)
+1. BG Vox to BG Vox.  Then BG Vox to everyone else (Drummer, Bassist, EG, Keys, Lead)
+1. Other Vox to Other Vocalist (e.g. if the bassist or EG has a mic).  Then Other Vox to everyone else.
+1. Drum Loops to Drummer (sometimes keyboardist runs these instead).  Then Drum Loops to everyone else (Bassist, EG, Keys, Lead, BG Vox)
+1. Save (overwrite) the previously saved session (NOT THE TEMPLATE!)
+
+<h4>During rehearsal</h4>
+
 1. Keep eye contact with musicians during their rehearsal
     - They will request changes, especially at the beginning of their rehearsal and in between songs
-1. Save (overwrite) the previously saved session (NOT THE TEMPLATE!)
 1. Put the board in preview mode after rehearsal is finished, until just before show begins
 1. Just before the show begins, change batteries on all wireless mics (Lead Vox, BG/Other Vox, Host)
-
-<table>
-  <tr>
-    <td></td>
-    <th>Outputs &rarr;</th>
-  </tr>
-  <tr>
-    <th>Inputs &darr;</th>
-    <th>to Drummer</th>
-    <th>to Bassist</th>
-    <th>to EG SL</th>
-    <th>to EG SR</th>
-    <th>to Keyboardist</th>
-    <th>to Lead</th>
-    <th>to BG Vox</th>
-  </tr>
-  <tr>
-    <th>Drums</th>
-    <td>*1*</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <th>Bass</th>
-    <td>9</td>
-    <td>*8*</td>
-    <td>10</td>
-    <td>11</td>
-    <td>12</td>
-    <td>13</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <th>EG SL</th>
-    <td>16</td>
-    <td>17</td>
-    <td>*15*</td>
-    <td>18</td>
-    <td>19</td>
-    <td>20</td>
-    <td>21</td>
-  </tr>
-  <tr>
-    <th>EG SR</th>
-    <td>23</td>
-    <td>24</td>
-    <td>25</td>
-    <td>*22*</td>
-    <td>26</td>
-    <td>27</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <th>Keys</th>
-    <td>30</td>
-    <td>31</td>
-    <td>32</td>
-    <td>33</td>
-    <td>*29*</td>
-    <td>34</td>
-    <td>35</td>
-  </tr>
-  <tr>
-    <th>Lead Gtr</th>
-    <td>37</td>
-    <td>38</td>
-    <td>39</td>
-    <td>40</td>
-    <td>41</td>
-    <td>*36*</td>
-    <td>42</td>
-  </tr>
-  <tr>
-    <th>Lead Vox</th>
-    <td>44</td>
-    <td>45</td>
-    <td>46</td>
-    <td>47</td>
-    <td>48</td>
-    <td>*43*</td>
-    <td>49</td>
-  </tr>
-  <tr>
-    <th>BG Vox</th>
-    <td>51</td>
-    <td>52</td>
-    <td>53</td>
-    <td>54</td>
-    <td>55</td>
-    <td>56</td>
-    <td>*50*</td>
-  </tr>
-  <tr>
-    <th>Other Vox</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>[ you get the idea ]</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>Click</th>
-    <td>***</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>Loop</th>
-    <td>***</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 <h2 id="show">The Show</h2>
 
